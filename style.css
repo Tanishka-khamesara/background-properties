@@ -1,0 +1,63 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.image{
+    background-image: url(https://e0.pxfuel.com/wallpapers/850/763/desktop-wallpaper-construction-site-construction-work.jpg);
+    height: 100vh;
+    width: 100vw;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.header{
+    background-size: 100% 100%;
+background-position: 0px 0px;
+background-image: radial-gradient(75% 75% at 50% 50%, black 0%, grey 100%);
+    height: 120px;
+    
+}
+.nav{
+    display: inline-block;
+    padding: 5%;
+    font-size: 24px;
+    margin-top: -2%;
+}
+.con{
+    color: white;
+}
+.button{
+    margin-left: 10px;
+    font-size: 24px;
+    padding: 10px;
+    margin-left: 7%;
+    margin-right: 5%;
+}
+.images{
+    background-color: white;
+    margin-top: 70vh;
+    height: 750px;
+    width: 100%;
+}
+.three{
+    display: inline-block;
+    padding: 40px;
+}
+.box{
+    background-color: black;
+    height: 700px;
+    width: 100%;
+}
+.boximage{
+    display: inline-block;
+    margin-left: 46%;
+    margin-top: 40px;
+}
+.para{
+    display: inline-block;
+    width: 40%;
+    margin-top: -50%;
+    margin-left: 2%;
+    color: white;
+    font-size: 22px;
+}
