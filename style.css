@@ -42,7 +42,7 @@ background-image: radial-gradient(75% 75% at 50% 50%, black 0%, grey 100%);
 }
 .three{
     display: inline-block;
-    padding: 40px;
+    padding: 1%;
 }
 .box{
     background-color: black;
