@@ -12,55 +12,55 @@
     background-size: cover;
 }
 .header{
-    background-size: 100% 100%;
-background-position: 0px 0px;
-background-image: radial-gradient(75% 75% at 50% 50%, black 0%, grey 100%);
+    background-image: linear-gradient(to bottom, #000000, #171717, #262626, #363636, #474747);
     height: 12%;
-    
 }
 .nav{
     display: inline-block;
-    padding: 5%;
-    font-size: 24px;
-    margin-top: -2%;
+    font-size: 16px;
+    margin-top: -1%;
 }
 .con{
     color: white;
+    padding: 4%;
 }
 .button{
+    background-color: white;
     margin-left: 10px;
-    font-size: 24px;
-    padding: 10px;
+    font-size: 16px;
+    padding: 4px;
     margin-left: 7%;
     margin-right: 5%;
 }
 .images{
     background-color: white;
     margin-top: 70vh;
-    height: 750px;
+    height: 500px;
     width: 100%;
 }
 .three{
     display: inline-block;
-    padding: 1%;
-    height:650px;
-    width:560px;
+    padding: 2%;
+    height:500px;
+    width:33vw;
 }
 .box{
     background-color: black;
-    height: 700px;
+    height: 600px;
     width: 100%;
 }
 .boximage{
     display: inline-block;
+    height: 400px;
+    width: 45vw;
     margin-left: 46%;
     margin-top: 40px;
 }
 .para{
     display: inline-block;
-    width: 40%;
-    margin-top: -50%;
+    width: 41%;
+    margin-top: -30%;
     margin-left: 2%;
     color: white;
-    font-size: 22px;
+    font-size: 16px;
 }
